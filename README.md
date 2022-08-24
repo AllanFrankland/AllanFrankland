@@ -1,0 +1,3 @@
+- My name is Allan.
+- I'm a Computer Science student.
+- My main interests include systems engineering, principle foundations of programming and the mathematical roots of computing.
